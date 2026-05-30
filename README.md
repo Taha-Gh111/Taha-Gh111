@@ -32,5 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-Taha--Gh111-181717?style=for-the-badge&logo=github"/>
     <br>
   </a>
-   My email : taha.ghasemzadeh1288@gmail.com
+  <a href="mailto:taha.ghasemzadeh1288@gmail.com">
+    My email 
+  </a>
 </p>
